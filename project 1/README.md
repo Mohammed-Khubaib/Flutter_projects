@@ -1,5 +1,1 @@
-# pomodoro_app
-
-A Pomodoro App UI.
-
-## Getting Started
+# Discord User Info page
