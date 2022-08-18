@@ -1,0 +1,4 @@
+#Fri Aug 19 01:41:01 IST 2022
+base.0=/Users/khubaib/Documents/IV sem/temp folder/aboutme/xplat dev/flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
