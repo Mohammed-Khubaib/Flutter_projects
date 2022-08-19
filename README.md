@@ -15,7 +15,9 @@
 
 
 
-## Flutter Basics
+<details> 
+    <summary> <h2>Flutter Basics :</h2> </summary>
+    <br/>
 
 ### Text Widget
 
@@ -43,7 +45,7 @@ child: Image(
 child: Image.asset('Asset/1.webp'),
 ```
 
-# How to make an App Bar
+### How to make an App Bar
 
 ```dart
 appBar: AppBar(
@@ -270,3 +272,7 @@ Row(
           ],
         ),
 ```
+
+    
+    
+ </details>
